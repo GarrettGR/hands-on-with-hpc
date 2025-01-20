@@ -11,14 +11,14 @@
 - Node-local Memory / "Burst Buffer" of 3.84TB/Node
 
 ### Navigating this Session
-Here you will find the [session agenda](agenda.md) along with various resources
+Here you will find various resources
 to help get you up and running on Frontier. We'll take a deep look at the
 system's design, discuss how research teams write programs for and run
 workloads on Frontier, and you'll get to run on your own. The session is guided by
-hands-on [***challenges***](challenges). 
+hands-on [***challenges***](challenges).
 
 The [first challenge](./challenges/Access_Frontier_and_Clone_Repo) is to
-successfully log into Frontier and clone this repository.
+successfully log into Wulver and clone this repository.
 
 Each challenge has its own sub-directory under `/challenges/`, and includes a
 README.md file and any additional files for that challenge. Challenges range in
@@ -38,5 +38,5 @@ reference materials outside of what's provided in this repository.
 <hr>
 <br>
 <p align="center">
-  <a href="https://hpc.njit.edu/"><img src="https://futuretechnologies.njit.edu/sites/futuretechnologies/files/njit%20logo_0.png" width="400" alt="Oak Ridge Leadership Computing Facility"></a>
+  <a href="https://hpc.njit.edu/"><img src="https://futuretechnologies.njit.edu/sites/futuretechnologies/files/njit%20logo_0.png" width="400" alt="ACM | New Jersey Institute of Technology"></a>
 </p>
